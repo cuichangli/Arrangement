@@ -9,6 +9,7 @@ package arrange;
 public class GitCommand {
     /** 1.创建版本库,--选择合适的地方，创建一个空目录
      *    例如：我需要在G盘创建一个Ideal 的目录。
+     *    clear           清空界面
      *
      *    cd g             //切换到g盘
      *    mkdir Ideal      //创建文件夹
